@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_">20dp</dimen>
+    <dimen name="motion_layout_size">100dp</dimen>
+
+</resources>
